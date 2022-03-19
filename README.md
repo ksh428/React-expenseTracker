@@ -1,3 +1,6 @@
+An expense tracker app using react js , material ui to keep track of income and expenses for various categories in the form of pi chart using chart.js. Added speechly
+allows to create transactions through voice automatically.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
